@@ -12,7 +12,12 @@ ul {
 /* белый #E5E5E5 */
 /* акцент background: #2196F3; */
 /* фон команды background: #F5F4FA; */
+/* ФОН СЕКЦИИ 1 background: #2F303A; */
 
 .logo {
     color:#2196F3;
+}
+
+.hero {
+    background-color:#2F303A;
 }
